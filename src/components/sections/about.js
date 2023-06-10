@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['UI/UX Design', 'Angular/React/Vue', 'Node.js/Nest.js', 'Laravel/Symfony/Laminas', 'Python/Django', 'AI & BI'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -151,9 +151,9 @@ const About = () => {
 
             <p>
               Shortly after graduating from{' '}
-              <a href="https://www.smu.edu.sg">Singapore Management University</a>, I joined the
-              engineering team at <a href="https://www.applify.co">Applify</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              <a href="https://www.smu.edu.sg">Singapore Management University</a>, I worked the
+              engineering team at several companies where I worked
+              on a wide variety of interesting and meaningful projects.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
