@@ -1,10 +1,10 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+title: 'UI Engineer Co-op'
+company: 'ViperLink'
+location: 'Singapore, Singapore'
+range: 'April 2015 - July 2016'
+url: 'https://www.viperlink.com.sg/'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

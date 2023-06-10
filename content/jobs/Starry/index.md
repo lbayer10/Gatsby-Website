@@ -1,9 +1,9 @@
 ---
 date: '2016-12-21'
 title: 'Software Engineer Co-op'
-company: 'Starry'
+company: 'Applify'
 location: 'Boston, MA'
-range: 'July - December 2016'
+range: 'July 2016 - December 2018'
 url: 'https://starry.com/'
 ---
 
