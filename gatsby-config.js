@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Lenny Bayer',
     description:
-      'Lenny Bayer is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+      'Lenny Bayer is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
@@ -12,6 +12,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
+    `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
@@ -19,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'Lenny Bayer',
+        short_name: 'Lenny Bayer',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

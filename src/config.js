@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'lenny.bayer10@gmail.com',
+  email: 'brittany.chiang@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/lbayer10',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/lbayer10',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/lbayer10',
+      url: 'https://github.com/bchiang7',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/lbayer10',
+      url: 'https://www.instagram.com/bchiang7',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/lbayer10',
+      url: 'https://twitter.com/bchiang7',
+    },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/bchiang7',
+    },
+    {
+      name: 'Codepen',
+      url: 'https://codepen.io/bchiang7',
     },
   ],
 
