@@ -60,9 +60,9 @@ const StyledCredit = styled.div`
     }
     svg {
       display: inline-block;
-      width: auto;
-      height: 15px;
       margin-right: 5px;
+      width: 14px;
+      height: 14px;
     }
   }
 `;
@@ -105,8 +105,8 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/lbayer10/Gatsby-Website">
-          <div>Designed &amp; Built by Lenny Bayer</div>
+        <a href="https://github.com/bchiang7/v4">
+          <div>Designed &amp; Built by Brittany Chiang</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
