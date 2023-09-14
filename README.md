@@ -5,7 +5,7 @@
   Lenny Bayer
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://lbayer10.com" target="_blank">lbayer10.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The portfolio iteration of <a href="https://lbayer10.com" target="_blank">lbayer10.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/lbayer10/deploys" target="_blank">
